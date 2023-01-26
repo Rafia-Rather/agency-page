@@ -27,6 +27,10 @@ body {
   margin-bottom: 48px;
 }
 
+.text-box {
+  max-width: 415px;
+}
+
 strong {
   color: #009966;
 }
@@ -60,6 +64,7 @@ strong {
   position: relative;
   right: 32px;
   width: max-content;
+  margin-bottom: 16px;
 }
 
 .section-heading {
