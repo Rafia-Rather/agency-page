@@ -63,7 +63,7 @@ strong {
   padding-bottom: 8px;
   position: relative;
   right: 32px;
-  width: max-content;
+  width: fit-content;
   margin-bottom: 16px;
 }
 
